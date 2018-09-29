@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">InventoryProjApp</string>
+
+    !-- Label for overflow menu option that inserts fake book data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all book data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Books</string>
+
+    <!-- Title for the activity to add a new book [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_book">Add a Book</string>
+
+    <!-- Label for editor menu option to save book and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current book [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_product">Product</string>
+
+    <!-- Label for book title(name) information in the editor [CHAR LIMIT=30] -->
+    <string name="category_title">Title</string>
+
+    <!-- Label for price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    !-- Label for quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    !-- Label for vendor name information in the editor [CHAR LIMIT=30] -->
+    <string name="category_vendor_name">Vendor</string>
+
+    !-- Label for vendor phone information in the editor [CHAR LIMIT=30] -->
+    <string name="category_vendor_phone">Vendor Phone</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_book_title">Title</string>
+
+    <!-- Text hint for vendor name in the editor [CHAR LIMIT=30] -->
+    <string name="hint_vendor_name">Vendor Name</string>
+
+    !-- Text hint for vendor name in the editor [CHAR LIMIT=30] -->
+    <string name="hint_vendor_phone">Vendor Phone</string>
+
+    <!-- Label for dropdown menu option if product is in stock [CHAR LIMIT=20] -->
+    <string name="in_stock">In Stock</string>
+
+    <!-- Label for dropdown menu option if the product is out of stock [CHAR LIMIT=20] -->
+    <string name="out_of_stock">Out of Stock</string>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
