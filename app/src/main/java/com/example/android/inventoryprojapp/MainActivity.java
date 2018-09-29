@@ -13,7 +13,7 @@ import android.view.View;
 import android.widget.TextView;
 import android.util.Log;
 
-import com.example.android.inventoryprojapp.R;
+
 import com.example.android.inventoryprojapp.data.BookContract.BookEntry;
 import com.example.android.inventoryprojapp.data.BookDbHelper;
 
